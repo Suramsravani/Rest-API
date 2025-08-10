@@ -24,8 +24,8 @@ This project is a simple RESTful API built with Python and Flask to manage user 
 
 Sample API responses and screenshots:
 
-![GET users](output_get.png)
-![POST user](output_post.png)
+![GET users]  $  ![POST user](output.png)
+
 
 ## Key Concepts
 
